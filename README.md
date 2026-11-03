@@ -6,6 +6,25 @@ Construo software que leva IA para produção com segurança: agentes de IA com 
 
 [LinkedIn](https://www.linkedin.com/in/iasmim-/) · iasmim.jesus@sou.inteli.edu.br
 
+## Em destaque
+
+<table>
+  <tr>
+    <td width="290" valign="top">
+      <a href="https://github.com/iwsmimsantos/food-match"><img src="https://github.com/iwsmimsantos/food-match/raw/main/docs/demo.gif" width="270" alt="Food Match em uso"></a>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/iwsmimsantos/food-match">Food Match</a></b>
+      <br><br>
+      Para quem abre o app de delivery e não sabe o que pedir: alguns "quero / não quero" e o app aprende o gosto da pessoa, tira a rotina dela e sugere pratos novos, explicando cada escolha com IA.
+      <br><br>
+      Protótipo da ideia que ficou em 3º lugar no ideathon do iFood. Com 4 escolhas, acerta o dobro de pratos novos que mostrar os mais pedidos, numa avaliação simulada.
+      <br><br>
+      <code>Python</code> <code>FastAPI</code> <code>Thompson sampling</code> <code>Claude</code>
+    </td>
+  </tr>
+</table>
+
 ## Na Klubi, desde janeiro de 2026
 
 Comecei como estagiária e fui efetivada em abril. Trabalho de ponta a ponta, da tela ao banco, nos sistemas que movimentam dinheiro de cliente.
