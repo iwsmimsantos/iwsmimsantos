@@ -43,12 +43,13 @@ Os três projetos de 2026 (Central de Pesquisas, BP Pipe e Veridian) estão no G
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
+| [Food Match](https://github.com/iwsmimsantos/food-match) | Protótipo da ideia que ficou em 3º no ideathon do iFood: quero / não quero que aprende o gosto a cada escolha e sugere pratos novos, com explicação por IA e avaliação simulada | Python, FastAPI, Thompson sampling, Claude |
 | [Gedui](https://github.com/iwsmimsantos/gedui-landing-page) | Site de um cliente real, feito pela Inteli Júnior, a empresa júnior do Inteli, e no ar em [gedui.com.br](https://gedui.com.br) | Next.js, TypeScript, AWS |
 | [QI Tech Inovacamp](https://github.com/iwsmimsantos/qitech-inovacamp) | Hackathon: plataforma de financiamento educacional com motor de score | Express, Next.js, PostgreSQL |
 | [TrackTrade](https://github.com/iwsmimsantos/tracktrade) | Hackathon: tokenização de ativos esportivos na blockchain Stellar | Python, Rust |
 | [Hackathon Santa Casa](https://github.com/iwsmimsantos/hackathon-santa-casa) | Hackathon na área de saúde | JavaScript |
 
-Em outubro de 2026, no ideathon do iFood no encontro anual de bolsistas da Fundação Behring, meu grupo ficou em **3º lugar** com o Food Match: para quem abre o app e não sabe o que pedir, o iFood oferece uma tela de "quero / não quero" e, a cada escolha, entende melhor o gosto da pessoa até recomendar pratos novos, com base em usuários parecidos.
+Em outubro de 2026, no ideathon do iFood no encontro anual de bolsistas da Fundação Behring, meu grupo ficou em **3º lugar** com o [Food Match](https://github.com/iwsmimsantos/food-match): para quem abre o app e não sabe o que pedir, o iFood oferece uma tela de "quero / não quero" e, a cada escolha, entende melhor o gosto da pessoa até recomendar pratos novos, com base em usuários parecidos.
 
 Participei do L'Oréal Brandstorm 2026, a competição de inovação da L'Oréal para universitários, e fui semifinalista do Technovation em 2023.
 
