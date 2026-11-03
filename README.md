@@ -95,6 +95,8 @@ Os três projetos de 2026 (Central de Pesquisas, BP Pipe e Veridian) estão no G
 
 Em outubro de 2026, no ideathon do iFood no encontro anual de bolsistas da Fundação Behring, meu grupo ficou em **3º lugar** com o [Food Match](https://github.com/iwsmimsantos/food-match): para quem abre o app e não sabe o que pedir, o iFood oferece uma tela de "quero / não quero" e, a cada escolha, entende melhor o gosto da pessoa até recomendar pratos novos, com base em usuários parecidos.
 
+**Pesquisa:** faço iniciação científica no Inteli, uma revisão sistemática da literatura sobre preconceito regional e pertencimento de jovens em STEM.
+
 Participei do L'Oréal Brandstorm 2026, a competição de inovação da L'Oréal para universitários, e fui semifinalista do Technovation em 2023.
 
 Também participo do Grace Hopper Women's Collective, que apoia mulheres em tecnologia, fui da Liga de Empreendedorismo e Inovação do Inteli e fui selecionada para o Programa Black Finance.
