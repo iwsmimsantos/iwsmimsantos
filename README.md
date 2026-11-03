@@ -23,6 +23,30 @@ Construo software que leva IA para produção com segurança: agentes de IA com 
       <code>Python</code> <code>FastAPI</code> <code>Thompson sampling</code> <code>Claude</code>
     </td>
   </tr>
+  <tr>
+    <td width="290" valign="top">
+<pre>
+$ suporte pendentes
+reembolso R$ 34,90 · P1003
+  aguardando aprovação
+
+$ suporte aprovar --por ana
+reembolso R$ 34,90 · executada
+
+proposta de R$ 500:
+  barrada pela política
+</pre>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/iwsmimsantos/agente-suporte-mcp">Agente de suporte com MCP e aprovação humana</a></b>
+      <br><br>
+      Um agente de IA atende chamados de delivery por um servidor MCP: confere o pedido, os pagamentos e o rastreio e propõe reembolso ou cupom. Nenhum dinheiro se move sem uma pessoa aprovar, e a política fica no código, não no prompt.
+      <br><br>
+      Versão aberta de um protótipo que fiz no trabalho. Os testes incluem um modelo mal-intencionado tentando dar R$ 500, e nenhum centavo sai.
+      <br><br>
+      <code>Python</code> <code>MCP</code> <code>Claude</code> <code>human-in-the-loop</code>
+    </td>
+  </tr>
 </table>
 
 ## Na Klubi, desde janeiro de 2026
@@ -63,6 +87,7 @@ Os três projetos de 2026 (Central de Pesquisas, BP Pipe e Veridian) estão no G
 | Projeto | O que é | Tecnologias |
 |---|---|---|
 | [Food Match](https://github.com/iwsmimsantos/food-match) | Protótipo da ideia que ficou em 3º no ideathon do iFood: quero / não quero que aprende o gosto a cada escolha e sugere pratos novos, com explicação por IA e avaliação simulada | Python, FastAPI, Thompson sampling, Claude |
+| [Agente de suporte com MCP](https://github.com/iwsmimsantos/agente-suporte-mcp) | Agente de IA que resolve chamados de delivery com aprovação humana, operações fechadas e trilha de auditoria | Python, MCP, Claude |
 | [Gedui](https://github.com/iwsmimsantos/gedui-landing-page) | Site de um cliente real, feito pela Inteli Júnior, a empresa júnior do Inteli, e no ar em [gedui.com.br](https://gedui.com.br) | Next.js, TypeScript, AWS |
 | [QI Tech Inovacamp](https://github.com/iwsmimsantos/qitech-inovacamp) | Hackathon: plataforma de financiamento educacional com motor de score | Express, Next.js, PostgreSQL |
 | [TrackTrade](https://github.com/iwsmimsantos/tracktrade) | Hackathon: tokenização de ativos esportivos na blockchain Stellar | Python, Rust |
